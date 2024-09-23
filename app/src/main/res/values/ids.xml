@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tituloTextView" type="id">titulo</item>
+    <item name="autorTextView" type="id">autor</item>
+    <item name="recyclerView" type="id">recyclerView</item>
+</resources>
